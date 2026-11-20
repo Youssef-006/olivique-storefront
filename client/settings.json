@@ -1,0 +1,242 @@
+{
+  "brand": {
+    "en": "Olivique",
+    "ar": "أوليفيك"
+  },
+  "operator": {
+    "en": "[Client legal name]",
+    "ar": "[الاسم القانوني للعميل]"
+  },
+  "email": "",
+  "whatsappNumber": "",
+  "instagramUrl": "",
+  "defaultLanguage": "en",
+  "arabicIndicDigits": false,
+  "deliveryFeeEgp": null,
+  "maxQtyPerLine": 20,
+  "governorates": [
+    {
+      "id": "cairo",
+      "en": "Cairo",
+      "ar": "القاهرة"
+    },
+    {
+      "id": "giza",
+      "en": "Giza",
+      "ar": "الجيزة"
+    },
+    {
+      "id": "alexandria",
+      "en": "Alexandria",
+      "ar": "الإسكندرية"
+    },
+    {
+      "id": "aswan",
+      "en": "Aswan",
+      "ar": "أسوان"
+    },
+    {
+      "id": "asyut",
+      "en": "Asyut",
+      "ar": "أسيوط"
+    },
+    {
+      "id": "beheira",
+      "en": "Beheira",
+      "ar": "البحيرة"
+    },
+    {
+      "id": "beni-suef",
+      "en": "Beni Suef",
+      "ar": "بني سويف"
+    },
+    {
+      "id": "dakahlia",
+      "en": "Dakahlia",
+      "ar": "الدقهلية"
+    },
+    {
+      "id": "damietta",
+      "en": "Damietta",
+      "ar": "دمياط"
+    },
+    {
+      "id": "faiyum",
+      "en": "Faiyum",
+      "ar": "الفيوم"
+    },
+    {
+      "id": "gharbia",
+      "en": "Gharbia",
+      "ar": "الغربية"
+    },
+    {
+      "id": "ismailia",
+      "en": "Ismailia",
+      "ar": "الإسماعيلية"
+    },
+    {
+      "id": "kafr-el-sheikh",
+      "en": "Kafr El Sheikh",
+      "ar": "كفر الشيخ"
+    },
+    {
+      "id": "luxor",
+      "en": "Luxor",
+      "ar": "الأقصر"
+    },
+    {
+      "id": "matrouh",
+      "en": "Matrouh",
+      "ar": "مطروح"
+    },
+    {
+      "id": "minya",
+      "en": "Minya",
+      "ar": "المنيا"
+    },
+    {
+      "id": "monufia",
+      "en": "Monufia",
+      "ar": "المنوفية"
+    },
+    {
+      "id": "new-valley",
+      "en": "New Valley",
+      "ar": "الوادي الجديد"
+    },
+    {
+      "id": "north-sinai",
+      "en": "North Sinai",
+      "ar": "شمال سيناء"
+    },
+    {
+      "id": "port-said",
+      "en": "Port Said",
+      "ar": "بورسعيد"
+    },
+    {
+      "id": "qalyubia",
+      "en": "Qalyubia",
+      "ar": "القليوبية"
+    },
+    {
+      "id": "qena",
+      "en": "Qena",
+      "ar": "قنا"
+    },
+    {
+      "id": "red-sea",
+      "en": "Red Sea",
+      "ar": "البحر الأحمر"
+    },
+    {
+      "id": "sharqia",
+      "en": "Sharqia",
+      "ar": "الشرقية"
+    },
+    {
+      "id": "sohag",
+      "en": "Sohag",
+      "ar": "سوهاج"
+    },
+    {
+      "id": "south-sinai",
+      "en": "South Sinai",
+      "ar": "جنوب سيناء"
+    },
+    {
+      "id": "suez",
+      "en": "Suez",
+      "ar": "السويس"
+    }
+  ],
+  "logoIcon": "",
+  "socialImage": "/social.png",
+  "motion": {
+    "enabled": true,
+    "intro": true,
+    "heroReveal": true,
+    "bottleFloat": true,
+    "scrollReveals": true,
+    "cardHover": true,
+    "addFeedback": true,
+    "flyToCart": true,
+    "drawer": true,
+    "branchDivider": true,
+    "storyChapters": true,
+    "storyBackground": true
+  },
+  "story": {
+    "placeholderCopy": true,
+    "eyebrow": { "en": "Our story", "ar": "حكايتنا" },
+    "headline": { "en": "From olive to oil.", "ar": "من الزيتون إلى الزيت." },
+    "chapters": [
+      {
+        "title": { "en": "The olive", "ar": "ثمرة الزيتون" },
+        "body": {
+          "en": "Olive oil comes from the fruit itself.",
+          "ar": "يُستخرج زيت الزيتون من الثمرة نفسها."
+        }
+      },
+      {
+        "title": { "en": "The press", "ar": "العصر على البارد" },
+        "body": {
+          "en": "Cold pressing uses mechanical pressure to extract the oil without adding heat.",
+          "ar": "في العصر على البارد، يُستخرج الزيت بالضغط الميكانيكي من دون إضافة حرارة."
+        }
+      },
+      {
+        "title": { "en": "Our oil", "ar": "زيتنا" },
+        "body": {
+          "en": "One high-quality, cold-pressed olive oil, in three sizes.",
+          "ar": "زيت زيتون واحد عالي الجودة، معصور على البارد ومتوفّر بثلاثة أحجام."
+        }
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "olivique-1l",
+      "litres": 1,
+      "priceEgp": 500,
+      "name": {
+        "en": "Cold-pressed olive oil · 1L",
+        "ar": "زيت زيتون معصور على البارد · 1 لتر"
+      },
+      "blurb": {
+        "en": "",
+        "ar": ""
+      },
+      "image": ""
+    },
+    {
+      "id": "olivique-2l",
+      "litres": 2,
+      "priceEgp": 800,
+      "name": {
+        "en": "Cold-pressed olive oil · 2L",
+        "ar": "زيت زيتون معصور على البارد · 2 لتر"
+      },
+      "blurb": {
+        "en": "",
+        "ar": ""
+      },
+      "image": ""
+    },
+    {
+      "id": "olivique-5l",
+      "litres": 5,
+      "priceEgp": 2000,
+      "name": {
+        "en": "Cold-pressed olive oil · 5L",
+        "ar": "زيت زيتون معصور على البارد · 5 لتر"
+      },
+      "blurb": {
+        "en": "",
+        "ar": ""
+      },
+      "image": ""
+    }
+  ]
+}

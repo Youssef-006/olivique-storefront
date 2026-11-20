@@ -1,0 +1,17 @@
+:root {
+  --paper: #faf8f1;
+  --card: #fffdf7;
+  --ink: #243022;
+  --olive: #465832;
+  --deep: #293b29;
+  --muted: #59604f;
+  --gold: #a2884a;
+  --line: #d6d6c5;
+  --wash: #efefe3;
+  --sage: #e1e7d5;
+  --white: #fff;
+  --error: #8e342a;
+  --overlay: rgb(24 32 22 / 40%);
+  --hero-forest: #233324;
+  --hero-champagne: #ebdfb7;
+}
