@@ -1,0 +1,5 @@
+:HL["/olivique-storefront/_next/static/css/42757ab513201a55.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=DM+Sans:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@500;600&family=Tajawal:wght@400;500;700&display=swap","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"privacy-policy","h":96,"c":"$Q2"}]]
+0:{"b":"l7b4GK_GstyU5x3KMtKna","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

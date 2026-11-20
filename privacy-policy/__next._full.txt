@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"static/chunks/768-d513846ab576af8d.js"
+3:"static/chunks/5-9a3043943d5806d5.js"
+4:"static/chunks/app/layout-343a58c81ac5be5c.js"
+5:"LanguageProvider"
+6:I[9422,["768","$2","5","$3","177","$4"],"$5"]
+7:I[1812,["768","$2","5","$3","177","$4"],"CartProvider"]
+8:I[6145,["768","$2","5","$3","177","$4"],"Shell"]
+9:I[5498,[],""]
+a:I[1384,[],""]
+b:"static/chunks/821-4350df2d1f3b4077.js"
+c:"static/chunks/app/privacy-policy/page-7e4db6e62071842d.js"
+d:I[8821,["768","$2","5","$3","821","$b","902","$c"],"Missing"]
+11:I[8821,["768","$2","5","$3","821","$b","902","$c"],"LegalPage"]
+12:I[8515,[],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[8515,[],"$15"]
+18:"MetadataBoundary"
+19:I[8515,[],"$18"]
+1b:I[4818,[],"default",1]
+:HL["/olivique-storefront/_next/static/css/42757ab513201a55.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=DM+Sans:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@500;600&family=Tajawal:wght@400;500;700&display=swap","style"]
+f:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L11",null,{"privacy":true}],null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":"privacy-policy","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","privacy-policy",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/olivique-storefront/_next/static/css/42757ab513201a55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"data-scroll-behavior":"smooth","data-motion":"intro heroReveal bottleFloat scrollReveals cardHover addFeedback flyToCart drawer branchDivider storyChapters storyBackground","lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(()=>{let v=new URLSearchParams(location.search).get(\"lang\");if(v!==\"ar\"&&v!==\"en\"){try{v=localStorage.getItem(\"olivique-lang\")}catch{}}if(v!==\"ar\"&&v!==\"en\")v=\"en\";document.documentElement.lang=v;document.documentElement.dir=v===\"ar\"?\"rtl\":\"ltr\"})()"}}],[["$","link",null,{"rel":"alternate","hrefLang":"en","href":"?lang=en"}],["$","link",null,{"rel":"alternate","hrefLang":"ar","href":"?lang=ar"}]],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=DM+Sans:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@500;600&family=Tajawal:wght@400;500;700&display=swap"}]]}],["$","body",null,{"children":["$","$L6",null,{"children":["$","$L7",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$Ld",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1b",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"l7b4GK_GstyU5x3KMtKna"}
+f:C
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+1c:I[8845,[],"IconMark"]
+14:null
+1a:[["$","title","0",{"children":"Privacy policy | Olivique"}],["$","meta","1",{"name":"description","content":"How Olivique handles your order details."}],["$","meta","2",{"name":"dcterms.modified","content":"2026-11-20"}],["$","meta","3",{"property":"og:title","content":"Privacy policy | Olivique"}],["$","meta","4",{"property":"og:description","content":"How Olivique handles your order details."}],["$","meta","5",{"property":"og:site_name","content":"Olivique"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Privacy policy | Olivique"}],["$","meta","9",{"name":"twitter:description","content":"How Olivique handles your order details."}],["$","link","10",{"rel":"icon","href":"/olivique-storefront/icon.svg"}],["$","$L1c","11",{}]]
